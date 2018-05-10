@@ -1,0 +1,11 @@
+0, asd, un, aaaaasssbbb, 1.122, 15, 150;
+1, asd, un, aaaaasssbbb, 1.122, 15, 150;
+2, asd, un, aaaaasssbbb, 10.122, 15, 150;
+3, asd, un, aaaaasssbbb, 10.122, 16, 150;
+4, asd, un, aaaaasssbbb, 196.122, 16, 150;
+10, asd, un, aaaaasssbbb, 196.122, 15, 150;
+5, asd1, un, aaaaasssbbb, 196.122, 14, 150;
+6, asd1, un, aaaaasssbbb, 196.122, 14, 150;
+7, asd2, un, aaaaasssbbb, 196.122, 14, 150;
+8, asd2, un, aaaaasssbbb, 196.122, 14, 150;
+9, asd2, un, aaaaasssbbb, 196.122, 15, 150;
